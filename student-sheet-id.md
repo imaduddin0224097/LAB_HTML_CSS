@@ -82,7 +82,7 @@ Jawab di `answers.md` **tanpa menjalankan kode apa pun**. Bagian ini dinilai dar
    <p class="box">C</p>
    <p>D</p>
    ```
-4. Sebuah `<h1 id="title" class="heading">` dikenai tiga aturan: `h1 { color: blue; }`, `.heading { color: green; }`, dan `#title { color: red; }`. Apa warnanya? Mengapa?
+4. Sebu#ah `<h1 id="title" class="heading">` dikenai tiga aturan: `h1 { color: blue; }`, `.heading { color: green; }`, dan `#title { color: red; }`. Apa warnanya? Mengapa?
 5. Apa yang salah pada HTML ini? `<p>Hello <strong>world</p></strong>`
 
 ---
