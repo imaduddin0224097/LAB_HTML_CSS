@@ -2,7 +2,7 @@
 
 ## Bagian 1: Pemanasan
 1.  nav a.active:hover(selector),color: red;(deklarasi),color(property),red(value),hover(pseudo-class)
-2.  block:<p>,<li,>,<h2>. inline: <span>,<a>,<strong>
+2.  block:&lt;p&gt;,&lt;li,&gt;,&lt;h2&gt;. inline: &lt;span&gt;,&lt;a&gt;,&lt;strong&gt;
 3.  A dan B karena berada di <div class=box>
 4.  warna merah, karena id selector lebih di utamakan daripada class selector dan element selector.
 5.  ada element inline di luar element block
